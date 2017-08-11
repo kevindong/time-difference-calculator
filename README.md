@@ -1,5 +1,5 @@
 # Time Difference Calculator
-A time difference calculator for Amazon's Alexa. May or may not be published right now. Creating this trivial skill was used as a learning experience.
+A time difference calculator for Amazon's Alexa. Approved and published [here](https://www.amazon.com/dp/B074NXCPH3).  Creating this trivial skill was used as a learning experience.
 
 # Replication of this Skill
 1. Create a [Amazon Lambda function](https://console.aws.amazon.com/lambda) with the Alexa Skills Kit as the trigger. Take note of the ARN and copy it somewhere safe. You'll need it soon.
